@@ -1,0 +1,25 @@
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/javaee"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+	version="3.0">
+	<display-name>Archetype Created Web Application</display-name>
+	<!-- <servlet>
+		<servlet-name>config-services</servlet-name>
+		<servlet-class>org.glassfish.jersey.servlet.ServletContainer</servlet-class>
+		<init-param>
+			<param-name>javax.ws.rs.Application</param-name>
+			<param-value>com.gk.app.config.App</param-value>
+		</init-param>
+		Register resources and providers under my.package.
+        <init-param>
+            <param-name>jersey.config.server.provider.packages</param-name>
+            <param-value>org.gk.app.config</param-value>
+        </init-param>
+
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>config-services</servlet-name>
+		<url-pattern>/*</url-pattern>
+	</servlet-mapping> -->
+</web-app> 
